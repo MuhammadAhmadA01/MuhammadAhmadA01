@@ -27,4 +27,3 @@ Here are some quick things about me:
 <a href="https://wa.me/923017088962?text=%23Github">
 <img src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=WhatsApp&logoColor=ffffff"></a>
 <br><br>
-
