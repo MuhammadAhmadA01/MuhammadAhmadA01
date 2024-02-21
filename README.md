@@ -12,7 +12,7 @@ Here are some quick things about me:
 
 <br><br>
 ### Let's Connect 🔥
-<a href="https://github.com/Aimmi-a01/">
+<a href="https://github.com/MuhammadAhmadA01/">
 <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
 <a href="https://www.linkedin.com/in/muhammad-ahmad-95502a197/">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
