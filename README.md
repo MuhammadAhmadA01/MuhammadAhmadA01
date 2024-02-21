@@ -7,7 +7,7 @@ Here are some quick things about me:
 🧸 I'm proud of who I am, what I have built, and what I am building.
 🧑‍💻 Coding is my passion.
 📫 The best way to reach me is to send me an email.
-📫 How to reach me: aimmichamps@gmail.com
+📫 How to reach me: mahmad.8962@gmail.com
 
 
 <br><br>
