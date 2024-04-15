@@ -13,9 +13,6 @@ Here are some quick things about me:
 
 - ⚡ Fun fact **I have already seen the reels You sent me**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
