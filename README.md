@@ -105,7 +105,7 @@ Here are some quick things about me:
     <img src="https://scipy.org/images/logo.svg" alt="SciPy" height="50" height="40"/>
   </a>
   <a href="https://biopython.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/biopython/biopython-icon.svg" alt="Biopython" height="50" height="40"/>
+    <img src="https://biopython.org/assets/images/biopython_logo_white.png" alt="Biopython" height="50" height="40"/>
   </a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="Plotly" height="50" height="40"/>
