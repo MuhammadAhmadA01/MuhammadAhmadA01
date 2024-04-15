@@ -2,14 +2,15 @@
 <h3 align="center">Final Year Student of CS and A Data Science Enthusiast</h3>
 
 Here are some quick things about me:
-
-🔭 I'm a software engineer who is paranoid about convention, consistency, and constraints.
-🌱 I’m currently learning Data Science.
-🕵️‍♀️ I like doing quality work.
-🧸 I'm proud of who I am, what I have built, and what I am building.
-🧑‍💻 Coding is my passion.
-📫 The best way to reach me is to send me an email.
-📫 How to reach me: mahmad.8962@gmail.com
+🧑‍💻 Experienced Software Engineer: Prioritizing convention, consistency, and constraints in every project. </br>
+🌱 Data Science Enthusiast: Currently immersed in learning Data Science principles and techniques.</br>
+🔧 Problem Solver: Successfully tackled over 300 Data Structures and Algorithms problems on LeetCode.</br>
+🧰 Full Stack MERN Developer: Proficient in building web applications using MongoDB, Express.js, React.js, and Node.js.</br>
+🚀 Passionate Coder: Coding isn't just a job; it's my passion and I approach every task with enthusiasm.</br>
+🧩 Quality-Oriented: Dedicated to delivering high-quality work that meets or exceeds expectations.</br>
+🏗️ Continuous Improvement: Proud of past achievements but always striving to learn and grow.</br>
+📧 Contact Me: For inquiries or collaboration opportunities, feel free to reach out via email.</br>
+📫 Email me at: mahmad.8962@gmail.com
 
 - ⚡ Fun fact **I have already seen the reels You sent me**
 
