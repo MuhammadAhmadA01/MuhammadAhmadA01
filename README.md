@@ -122,14 +122,8 @@ Here are some quick things about me:
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" height="50" height="40"/>
   </a>
-  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
-    <img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg" alt="BeautifulSoup" height="50" height="40"/>
-  </a>
   <a href="https://networkx.org/" target="_blank" rel="noreferrer">
     <img src="https://networkx.org/_static/networkx_logo.svg" alt="NetworkX" height="50" height="40"/>
-  </a>
-  <a href="https://riverbankcomputing.com/software/pyqt/intro" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Python-xy-logo.png" alt="PyQt5" height="50" height="40"/>
   </a>
 </p>
 
