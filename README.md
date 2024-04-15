@@ -114,7 +114,7 @@ Here are some quick things about me:
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" height="50" height="40"/>
   </a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="http://www.w3.org/2000/svg" alt="Streamlit" height="50" height="40"/>
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" height="50" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="PowerBI" height="50" height="40"/>
