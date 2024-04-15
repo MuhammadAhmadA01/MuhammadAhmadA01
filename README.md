@@ -114,7 +114,7 @@ Here are some quick things about me:
     <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" height="50" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="PowerBI" height="50" height="40"/>
+    <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022-small.png" alt="PowerBI" height="50" height="40"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" height="50" height="40"/>
