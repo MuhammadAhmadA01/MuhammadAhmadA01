@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
-<h3 align="center">Final Year Student of CS and A DataScience/Machine Learning Enthusiast</h3>
+<h3 align="center">Final Year Student of CS and A Data Science Enthusiast</h3>
 
 Here are some quick things about me:
 
@@ -38,9 +38,6 @@ Here are some quick things about me:
   </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Assembler_language_icon.svg" alt="Assembly" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -139,5 +136,5 @@ Here are some quick things about me:
 <h3 align="left">Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuhammadAhmadA01" alt="MuhammadAhmadA01" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mahmad.8962" target="blank"><img src="https://img.shields.io/twitter/follow/mahmad.8962?logo=twitter&style=for-the-badge" alt="mahmad.8962" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mahmad8962" target="blank"><img src="https://img.shields.io/twitter/follow/mahmad8962?logo=twitter&style=for-the-badge" alt="mahmad8962" /></a> </p>
 
