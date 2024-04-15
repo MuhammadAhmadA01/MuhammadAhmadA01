@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
 <h3 align="center">Final Year Student of CS and A Data Science Enthusiast</h3>
 
-Here are some quick things about me:
+Here are some quick things about me:</br></br>
 🧑‍💻 Experienced Software Engineer: Prioritizing convention, consistency, and constraints in every project. </br>
 🌱 Data Science Enthusiast: Currently immersed in learning Data Science principles and techniques.</br>
 🔧 Problem Solver: Successfully tackled over 300 Data Structures and Algorithms problems on LeetCode.</br>
@@ -10,9 +10,9 @@ Here are some quick things about me:
 🧩 Quality-Oriented: Dedicated to delivering high-quality work that meets or exceeds expectations.</br>
 🏗️ Continuous Improvement: Proud of past achievements but always striving to learn and grow.</br>
 📧 Contact Me: For inquiries or collaboration opportunities, feel free to reach out via email.</br>
-📫 Email me at: mahmad.8962@gmail.com
+📫 Email me at: mahmad.8962@gmail.com</br></br>
 
-- ⚡ Fun fact **I have already seen the reels You sent me**
+⚡ Fun fact **I have already seen the reels You sent me**
 
 
 <h3 align="left">Connect with me:</h3>
