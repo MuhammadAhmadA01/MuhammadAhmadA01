@@ -102,7 +102,7 @@ Here are some quick things about me:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="50" height="40"/>
   </a>
   <a href="https://www.scipy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" alt="SciPy" height="50" height="40"/>
+    <img src="https://scipy.org/images/logo.svg" alt="SciPy" height="50" height="40"/>
   </a>
   <a href="https://biopython.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/biopython/biopython-icon.svg" alt="Biopython" height="50" height="40"/>
