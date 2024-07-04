@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
-<h3 align="center">Final Year Student of CS and A Data Science Enthusiast</h3>
+<h3 align="center">A Software Engineer and A Data Science Enthusiast</h3>
 
 Here are some quick things about me:</br></br>
 🧑‍💻 Experienced Software Engineer: Prioritizing convention, consistency, and constraints in every project. </br></br>
