@@ -5,7 +5,7 @@ Here are some quick things about me:</br></br>
 🧑‍💻 Experienced Software Engineer: Prioritizing convention, consistency, and constraints in every project. </br></br>
 🌱 Data Science Enthusiast: Currently immersed in **learning Data Science principles** and techniques.</br></br>
 🔧 Problem Solver: Successfully tackled over **300 Data Structures and Algorithms problems on LeetCode**.</br></br>
-🧰 Full Stack Developer: Proficient in building web applications using **MongoDB, Express.js, React.js, Node.js and Django**.</br></br>
+🧰 Full Stack Developer: Proficient in building web applications using **MongoDB, Express.js, React.js, Node.js and Django Rest Framework**.</br></br>
 🚀 Passionate Coder: Coding isn't just a job; it's my passion and I approach every task with enthusiasm.</br></br>
 🏗️ Continuous Improvement: Proud of past achievements but always striving to learn and grow.</br></br>
 📧 Contact Me: For inquiries or collaboration opportunities, feel free to reach out via email.</br></br>
