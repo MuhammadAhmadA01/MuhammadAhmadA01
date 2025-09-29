@@ -85,11 +85,8 @@ Here are some quick things about me:</br></br>
   <!-- DevOps & CI/CD -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg" alt="CircleCI" height="50"/>
-  <img src="https://www.svgrepo.com/show/354202/infrastructure-as-code-iac.svg" alt="IaC" height="50"/>
-
   <!-- Vector DBs -->
-  <img src="https://cdn.worldvectorlogo.com/logos/pinecone.svg" alt="Pinecone" height="50"/>
-  <img src="https://seeklogo.com/images/F/faiss-logo-4DA62F56F6-seeklogo.com.png" alt="FAISS" height="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLhSrfueBZeHifvia4Vqhhd9QuqGQpi5UduA&s" alt="Pinecone" height="50"/>
 </p>
 
 ---
